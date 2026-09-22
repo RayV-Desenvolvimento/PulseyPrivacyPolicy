@@ -1,1 +1,1 @@
-# PulseyPrivacyPolicy
+# PrivacyPolicy
